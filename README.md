@@ -1,4 +1,4 @@
-# bip-39-mnemonic-child-generator
+# mnemonic-child-generator for bitcoin
 generate keys and addresses from your mnemonic lists, in bulk, python3 
 
 create a file called mnemonics.txt in the same folder as the program.
