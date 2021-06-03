@@ -5,7 +5,7 @@ create a file called mnemonics.txt in the same folder with the program
 
 mnemonics.txt should contain your mnemonics list, one 3,12,24 word phrase per line
 
-Two files will be generated when you run bip39ch.py, WIFS.txt and addr.txt in the same folder as the program
+Two files will be generated when you run bip39ch.py, WIFS.txt and addr.txt.
 
 The private keys output in the terminal
 
